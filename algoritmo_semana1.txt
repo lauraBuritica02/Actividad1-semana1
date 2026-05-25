@@ -1,0 +1,10 @@
+Escribe un algoritmo de mínimo 6 pasos para explicar
+
+1. Abrir la aplicación de Nequi en el celular.
+2. Iniciar sesión con el número de teléfono y la clave.
+3. Seleccionar la opción “Enviar plata”.
+4. Elegir la opción “A otro Nequi”.
+5. Ingresar el número de celular de la persona que recibirá el dinero.
+6. Escribir el valor que se desea enviar.
+7. Revisar que los datos estén correctos.
+8. Confirmar el envío de dinero y esperar el mensaje de aprobación.
